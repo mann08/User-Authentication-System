@@ -250,6 +250,7 @@ Authorization: Bearer <your_jwt_token>
 4. Try accessing `http://localhost:3000/dashboard` directly — you'll be redirected to login
 5. Log in again — dashboard is now accessible
 
+
 ---
 
 ## 🐛 Common Issues & Fixes
@@ -260,6 +261,7 @@ Authorization: Bearer <your_jwt_token>
 | `Network Error` on frontend | Make sure the backend is running on port 5000 |
 | `EADDRINUSE: port 5000` | Kill the process using port 5000 or change `PORT` in `.env` |
 | Blank page on React | Check browser console for errors; ensure `npm install` ran |
+
 
 ---
 
