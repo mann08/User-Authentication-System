@@ -4,6 +4,7 @@ A complete, production-ready User Authentication System built with the **MERN st
 
 ---
 
+
 ## 📁 Folder Structure
 
 ```
@@ -46,6 +47,7 @@ User Authication System/
 
 ---
 
+
 ## ⚙️ Prerequisites
 
 Make sure you have the following installed:
@@ -53,6 +55,7 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v16 or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 - A [MongoDB Atlas](https://www.mongodb.com/atlas) account (free tier is enough)
+
 
 ---
 
