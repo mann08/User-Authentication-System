@@ -48,7 +48,7 @@ User Authication System/
 ---
 
 
-## ⚙️ Prerequisites
+# ⚙️ Prerequisites
 
 Make sure you have the following installed:
 
