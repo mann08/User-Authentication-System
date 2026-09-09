@@ -59,7 +59,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🚀 Setup & Installation
+# 🚀 Setup & Installation
 
 ### Step 1 — Clone / Open the project
 
