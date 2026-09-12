@@ -5,7 +5,7 @@ A complete, production-ready User Authentication System built with the **MERN st
 ---
 
 
-## 📁 Folder Structure
+# 📁 Folder Structure
 
 ```
 User Authication System/
