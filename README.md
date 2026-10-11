@@ -1,3 +1,4 @@
+
 # 🔐 User Authentication System — MERN Stack
 
 A complete, production-ready User Authentication System built with the **MERN stack** (MongoDB, Express, React, Node.js) featuring JWT-based authentication, bcrypt password hashing, protected routes, and a sleek dark UI.
